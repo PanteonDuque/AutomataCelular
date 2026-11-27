@@ -2,14 +2,15 @@
 
 Informe técnico y documentación del simulador de autómatas celulares elementales unidimensionales (reglas de Wolfram) implementado en Haskell.
 
+
 **Profesor:** Cristóbal A. Navarro 
 
 ## Integrantes:
 
--Antonio Duque 
--Benjamin Parra 
--Jason 
--Hans 
+- Antonio Duque 
+- Benjamin Parra 
+- Jason 
+- Hans 
 
 ## Descripción general
 
