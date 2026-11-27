@@ -4,7 +4,8 @@ Informe técnico y documentación del simulador de autómatas celulares elementa
 
 **Profesor:** Cristóbal A. Navarro 
 
-**Integrantes:**  
+##Integrantes:
+
 -Antonio Duque 
 -Benjamin Parra 
 -Jason 
