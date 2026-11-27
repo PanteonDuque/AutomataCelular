@@ -6,9 +6,9 @@
 ## Integrantes:
 
 - Antonio Duque 
-- Benjamin Parra 
+- Benjamin Parra
 - Jason 
-- Hans
+- Hans Benicke 
   
 ## Descripcion
 
