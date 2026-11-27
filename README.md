@@ -2,10 +2,13 @@
 
 Informe técnico y documentación del simulador de autómatas celulares elementales unidimensionales (reglas de Wolfram) implementado en Haskell.
 
-| **Curso** | INFO188 (2026) |
-| **Profesor** | Cristóbal A. Navarro |
-| **Fecha de entrega** | Viernes 27 de noviembre de 2026 |
-| **Integrantes** | Antonio Duque, Benjamin Parra , Jason , Hans |
+**Profesor:** Cristóbal A. Navarro 
+
+**Integrantes:**  
+-Antonio Duque 
+-Benjamin Parra 
+-Jason 
+-Hans 
 
 ## Descripción general
 
