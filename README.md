@@ -4,9 +4,8 @@ Informe técnico y documentación del simulador de autómatas celulares elementa
 
 | **Curso** | INFO188 (2026) |
 | **Profesor** | Cristóbal A. Navarro |
-| **Fecha de entrega** | Viernes 20 de noviembre de 2026 |
-| **Integrantes** | [Nombre Completo 1], [Nombre Completo 2] |
-| **Repositorio** | [URL del repositorio en GitHub] |
+| **Fecha de entrega** | Viernes 27 de noviembre de 2026 |
+| **Integrantes** | Antonio Duque, Benjamin Parra , Jason , Hans |
 
 ## Descripción general
 
