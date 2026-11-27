@@ -7,7 +7,7 @@
 
 - Antonio Duque 
 - Benjamin Parra
-- Jason 
+- Jason Cárdenas
 - Hans Benicke 
   
 ## Descripcion
