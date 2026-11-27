@@ -20,9 +20,9 @@ Este proyecto implementa en Haskell un **autómata celular elemental unidimensio
 
 ## Estructura del proyecto
 
-| `Automata.hs` | Módulo principal de lógica: definición del tipo `Automata`, constructores (centrado y aleatorio), vecindades con bordes periódicos, evaluación de reglas de Wolfram, función pura `paso` y simulación con la mónada `State` (`pasoS`, `avanzar`, `simular`). |
-| `main.hs` | Punto de entrada del programa: lectura y validación de argumentos por línea de comandos, inicialización del autómata (estándar o aleatorio) y ejecución de la simulación mediante `evalState`. |
-| `Makefile` | Reglas de compilación optimizada (`ghc -O2`) y limpieza de binarios y archivos intermedios. |
+`Automata.hs` Módulo principal de lógica: definición del tipo `Automata`, constructores (centrado y aleatorio), vecindades con bordes periódicos, evaluación de reglas de Wolfram, función pura `paso` y simulación con la mónada `State` (`pasoS`, `avanzar`, `simular`).
+`main.hs` Punto de entrada del programa: lectura y validación de argumentos por línea de comandos, inicialización del autómata (estándar o aleatorio) y ejecución de la simulación mediante `evalState`. 
+`Makefile` Reglas de compilación optimizada (`ghc -O2`) y limpieza de binarios y archivos intermedios. 
 
 ## Requisitos y compilación
 
