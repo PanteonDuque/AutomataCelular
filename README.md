@@ -1,7 +1,5 @@
 # INFO188 — Tarea 1: Autómata Celular Elemental 1D
 
-Informe técnico y documentación del simulador de autómatas celulares elementales unidimensionales (reglas de Wolfram) implementado en Haskell.
-
 
 **Profesor:** Cristóbal A. Navarro 
 
@@ -10,14 +8,15 @@ Informe técnico y documentación del simulador de autómatas celulares elementa
 - Antonio Duque 
 - Benjamin Parra 
 - Jason 
-- Hans 
-
-## Descripción general
+- Hans
+  
+## Descripcion
 
 Este proyecto implementa en Haskell un **autómata celular elemental unidimensional** con condiciones de borde periódicas. El sistema modela una fila de células binarias (vivas o muertas) que evolucionan en pasos discretos según una de las 256 reglas elementales de Wolfram (0 a 255).
 
 - **Condición inicial aleatoria** (con semilla automática basada en el reloj del sistema o semilla fija para ejecuciones reproducibles).
 - **Simulación con la mónada `State`** ([Haskell Wiki — State Monad](https://wiki.haskell.org/State_Monad)), encapsulando las transiciones de estado mediante `modify`, `gets`, `replicateM_` y `replicateM` sin pasar manualmente el estado entre funciones.
+
 
 ## Estructura del proyecto
 
